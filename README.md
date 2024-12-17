@@ -51,7 +51,7 @@ streamlit run app.py
 Berdasarkan permasalahan diatas dapat disimpulkan bawah ada beberapa faktor yang mempengaruhi mahasiswa di dropout yaitu :
 - Mahasiswa yang lebih muda saat pertama kali mendaftar memiliki risiko dropout yang lebih tinggi. Hal ini mungkin dikarenakan kurangnya kesiapan dalam menghadapi tantangan akademis maupun aspek kehidupan kampus yang kompleks.
 - Mahasiswa yang mendaftar melalui jalur "over 23 years old" memiliki tingkat dropout tertinggi. Ini menunjukkan bahwa mahasiswa dalam kategori ini cenderung memiliki risiko lebih besar untuk keluar dari studi dibandingkan jalur pendaftaran lainnya.
--Jurusan Manajemen, baik untuk kelas malam maupun siang, memiliki jumlah mahasiswa dropout yang signifikan. Ini menunjukkan bahwa mahasiswa di jurusan ini mungkin menghadapi tantangan khusus yang perlu strategi khusus untuk mengurangi tingkat dropout.
+- Jurusan Manajemen, baik untuk kelas malam maupun siang, memiliki jumlah mahasiswa dropout yang signifikan. Ini menunjukkan bahwa mahasiswa di jurusan ini mungkin menghadapi tantangan khusus yang perlu strategi khusus untuk mengurangi tingkat dropout.
 - Mahasiswa yang gagal menyelesaikan banyak mata kuliah dan mendapatkan nilai rendah di semester pertama dan kedua lebih rentan terhadap risiko dropout. Ini menunjukkan bahwa performa akademis awal memiliki pengaruh signifikan terhadap keberlanjutan studi mahasiswa.
 - Mahasiswa yang memiliki tunggakan cenderung lebih rentan untuk keluar dari studi. Sementara itu, mahasiswa yang menerima beasiswa memiliki risiko dropout yang lebih rendah, menunjukkan bahwa dukungan finansial dapat membantu menjaga keberlanjutan studi mahasiswa.
 
