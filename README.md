@@ -72,6 +72,7 @@ Dashboard ini dirancang untuk memberikan gambaran visual mengenai analisis data 
 streamlit run app.py
 ```
 **link Streamlite :** https://aininf30-student-dropout-prediction-app-uaf1vu.streamlit.app/
+
 ## Conclusion
 Berdasarkan permasalahan diatas dapat disimpulkan bawah ada beberapa faktor yang mempengaruhi mahasiswa di dropout yaitu :
 - Mahasiswa yang lebih muda saat pertama kali mendaftar memiliki risiko dropout yang lebih tinggi. Hal ini mungkin dikarenakan kurangnya kesiapan dalam menghadapi tantangan akademis maupun aspek kehidupan kampus yang kompleks.
