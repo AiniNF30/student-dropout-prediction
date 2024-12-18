@@ -43,7 +43,7 @@ st.markdown("""
 
 st.markdown("<h1 class='title'>Student Dropout Prediction</h1>", unsafe_allow_html=True)
 
-model_and_scaler = joblib.load('/Users/aininurpadilah/Prediction-of-project-dropout/model/model.joblib')
+model_and_scaler = joblib.load('model/model.joblib')
 
 def selectbox_yes_no(label):
     mapping = {"No": 0, "Yes": 1}
