@@ -41,12 +41,37 @@ Dashboard ini dirancang untuk memberikan gambaran visual mengenai analisis data 
 **link Looker :** https://lookerstudio.google.com/reporting/c1eaea00-ab14-4cc9-b74e-44c006790a2c
 
 ## Menjalankan Sistem Machine Learning
-Jelaskan cara menjalankan protoype sistem machine learning yang telah dibuat. Selain itu, sertakan juga link untuk mengakses prototype tersebut.
 
+1. **Pastikan Python terinstal**
+   - Pastikan Python versi 3.x terinstal di sistem Anda. Anda dapat mengunduh dan menginstalnya dari [python.org](https://www.python.org/).
+
+2. **Buat lingkungan virtual**
+   - Buat lingkungan virtual untuk mengisolasi dependensi proyek. Jalankan perintah berikut di terminal Anda:
+     ```bash
+     python -m venv env
+     ```
+     
+3. **Aktifkan lingkungan virtual**
+   - Untuk Windows:
+     ```bash
+     .\env\Scripts\activate
+     ```
+   - Untuk macOS/Linux:
+     ```bash
+     source env/bin/activate
+     ```
+
+4. **Pasang dependensi menggunakan `requirements.txt`**
+   - Pastikan Anda berada di direktori proyek yang sama dengan file `requirements.txt`, lalu jalankan perintah berikut:
+     ```bash
+     pip install -r requirements.txt
+     ```
+
+5. Running Streamlit
 ```
 streamlit run app.py
 ```
-**link Streamlite : **
+**link Streamlite :** https://aininf30-student-dropout-prediction-app-uaf1vu.streamlit.app/
 ## Conclusion
 Berdasarkan permasalahan diatas dapat disimpulkan bawah ada beberapa faktor yang mempengaruhi mahasiswa di dropout yaitu :
 - Mahasiswa yang lebih muda saat pertama kali mendaftar memiliki risiko dropout yang lebih tinggi. Hal ini mungkin dikarenakan kurangnya kesiapan dalam menghadapi tantangan akademis maupun aspek kehidupan kampus yang kompleks.
